@@ -67,6 +67,7 @@ Debes generar un repositorio en GitHub. Para esto ingresa a [**GITHUB**](https:/
 
 El objetivo de este ejercicio es que crees un nuevo repositorio llamado "_**RepositorioHenry**_".
 
+https://github.com/Reversis/RepositorioHenry
 ---
 
 </br >
@@ -74,7 +75,9 @@ El objetivo de este ejercicio es que crees un nuevo repositorio llamado "_**Repo
 ### **📍 EJERCICIO 02**
 
 En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
-
+$ git clone https://github.com/Reversis/RepositorioHenry.git
+$ cd RepositorioHenry
+$ mkdir CarpetaHenry
 ---
 
 </br >
@@ -82,7 +85,8 @@ En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpet
 ### **📍 EJERCICIO 03**
 
 Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
-
+$ cd RepositorioHenry
+$ cd CarpetaHenry
 ---
 
 </br >
@@ -90,7 +94,7 @@ Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
 ### **📍 EJERCICIO 04**
 
 Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
-
+$ touch primerArchivo.txt
 </br >
 
 ## **💻 SUBE TUS AVANCES**
