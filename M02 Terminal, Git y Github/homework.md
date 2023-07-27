@@ -93,8 +93,8 @@ Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.<
 
 ### **📍 EJERCICIO 04**
 
-Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
-$ touch primerArchivo.txt
+Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).</br >
+ $ touch primerArchivo.txt
 </br >
 
 ## **💻 SUBE TUS AVANCES**
